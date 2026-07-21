@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/yleek/yleek/main/profile-summary-card-output/synthwave/2-most-commit-language.svg)
-```
-
-    
